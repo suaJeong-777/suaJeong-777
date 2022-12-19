@@ -3,9 +3,10 @@
 #### 오늘 못해도 내일은 할 수 있는 개발자가 되는걸 목표로 하고 있습니다 😄
 
 #### Available Skills 📚
+<div>
 <img src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Android-brightgreen?style=flat-square&logo=Android&logoColor=white"/>
-
+</div>
 <!--
 **suaJeong-777/suaJeong-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
